@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="78.105062">
+<testcase classname="Place an chooselater order via Telefonica" name="Placing an order with choose later option" time="78.105062">
+<system-out><![CDATA[Given user should have launched telefonica url..............................passed
+When user validate page title...............................................passed
+Then User mouse hover to shop...............................................passed
+And User select phones......................................................passed
+Then user enters "iphone" in searchbar......................................passed
+Then User validate the iphone...............................................passed
+And user clicks select this plan button.....................................passed
+Then user select choose later button........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
